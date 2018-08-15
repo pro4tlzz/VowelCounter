@@ -21,6 +21,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_6BEB451E45BB467BA0ABBB6AB314553D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_7D7273E3C79448A6AC8C9E9C0A884039"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -147,6 +153,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6BEB451E45BB467BA0ABBB6AB314553D"
+            {
+            "SourcePath" = "8:..\\README.txt"
+            "TargetName" = "8:README.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_5BC3AD50D65F4F24977AB0C9195D21BA"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
         }
         "FileType"
         {
@@ -204,7 +230,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Vowel Counter"
         "ProductCode" = "8:{F03539EB-2031-4B19-A550-897AB690EEC4}"
-        "PackageCode" = "8:{4EFD35AA-6301-4CA2-BAAC-C8380C7172B0}"
+        "PackageCode" = "8:{87FE12EE-C623-4465-A918-394F037854D4}"
         "UpgradeCode" = "8:{40806628-4C10-44DF-BA08-84B65CEB3109}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -334,6 +360,20 @@
             "Transitive" = "11:FALSE"
             "Target" = "8:_7D7273E3C79448A6AC8C9E9C0A884039"
             "Folder" = "8:_D37D7029B5C34DF381F0620A3D254D53"
+            "WorkingFolder" = "8:_5BC3AD50D65F4F24977AB0C9195D21BA"
+            "Icon" = "8:"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_D3FC34DDCDF74F7CBEBCA22384E02728"
+            {
+            "Name" = "8:README.txt"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_6BEB451E45BB467BA0ABBB6AB314553D"
+            "Folder" = "8:_A85BC48B63114D859CBC3C55EBD641DC"
             "WorkingFolder" = "8:_5BC3AD50D65F4F24977AB0C9195D21BA"
             "Icon" = "8:"
             "Feature" = "8:"
