@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("VowelCounter")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Count Vowels from User Input")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP Inc.")]
+[assembly: AssemblyCompany("Pro4TLZZ")]
 [assembly: AssemblyProduct("VowelCounter")]
-[assembly: AssemblyCopyright("Copyright © HP Inc. 2018")]
+[assembly: AssemblyCopyright("Copyright © Mohammed Bilal Habib")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

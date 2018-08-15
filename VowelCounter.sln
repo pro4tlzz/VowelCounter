@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCounter", "VowelCounter\VowelCounter.csproj", "{F3EE9CCE-6E3D-4B31-B093-19697F2E831B}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VowelCounterInstaller", "VowelCounterInstaller\VowelCounterInstaller.vdproj", "{FFE4A5EE-B9F6-42D6-ABD7-FEB16167270D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{F3EE9CCE-6E3D-4B31-B093-19697F2E831B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3EE9CCE-6E3D-4B31-B093-19697F2E831B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3EE9CCE-6E3D-4B31-B093-19697F2E831B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE4A5EE-B9F6-42D6-ABD7-FEB16167270D}.Debug|Any CPU.ActiveCfg = Debug
+		{FFE4A5EE-B9F6-42D6-ABD7-FEB16167270D}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
